@@ -16,7 +16,7 @@
     
 }
 
-.up-section{
+.top-section{
     width: 1440px;
     height: 72px;
     position:absolute;
@@ -32,6 +32,7 @@
 }
 
 .down-section{
+
     display:flex;
     align-items: center;
 
@@ -58,8 +59,10 @@
    right: 1092.76px;
    top: 21.53px;
    bottom: 19.58%;
+   cursor: pointer;
   
 }
+
 
 .search-bar{
 height: 45px;
@@ -106,12 +109,13 @@ stroke:#FFFFFF;
 }
 
 .eclipse-8{
-    height: 44px;
+height: 44px;
 width: 44px;
 left: 988px;
 top: 14px;
 border-radius: 0px;
 position: absolute;
+cursor: pointer;
 
 }
 
@@ -129,10 +133,59 @@ letter-spacing: 0em;
 text-align: center;
 position: absolute;
 font-style: normal;
+cursor: pointer;
 
 
 /* identical to box height, or 100% */
 text-transform: uppercase;
 
 color: #FFFFFF;
+}
+
+.youtube{
+ height: 30px;
+ width: 37.5px;
+ left: 1045.75px;
+ top: 22.5px;
+ border-radius: 0px;
+ position: absolute;
+ cursor: pointer;
+}
+
+.youtube-play{
+    top:31px ;
+    left: 1060px;
+    position: absolute;
+    cursor: pointer;
+}
+
+.facebook{
+    position: absolute;
+    left: 1097.08px;
+    top: 22.17px;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.handset{
+    position: absolute;
+    left: 1149px;
+    top: 23px;
+    cursor: pointer;
+}
+
+.phone-number{
+    position: absolute;
+    font-family: 'Exo 2';
+    left: 1190px;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 42px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #FFFFFF;
+    cursor: pointer;
+
+
 }

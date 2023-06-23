@@ -1,0 +1,178 @@
+.auto-parts{
+    position: absolute;
+    height: 37px;
+    width: 172px;
+    left: 130px;
+    top: 89px;
+    border-radius: 50px;
+    background: linear-gradient(0deg, #008AEE, #008AEE);
+    cursor: pointer;
+
+}
+
+.header-text{
+    position: absolute;
+    left: 49px;
+    top:5px;
+    font-family: 'Exo 2';
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+.head-icons{
+    position: absolute;
+    left: 8.33%;
+    right: 8.29%;
+    top: 8.56px;
+    cursor: pointer;
+
+}
+
+.inner{
+    position: absolute;
+    left: 21px;
+    top:16px;
+    cursor: pointer;
+}
+
+.buy{
+    position: absolute;
+    left: 21.67%;
+    right: 65.76%;
+    top: 60.54%;
+    bottom: 14.29%;
+    background: #F2992F;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+.buy-icon{
+    position: absolute;
+left: 8.34%;
+right: 8.34%;
+top: 8.83px;
+cursor: pointer;
+
+}
+
+.auctions{
+    position: absolute;
+    left: 34.93%;
+    right: 55.14%;
+    top: 60.54%;
+    bottom: 14.29%;
+    background: #2CCACA;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+.auction-icon{
+    position: absolute;
+    left:18px;
+    top: 8.38px;
+    
+}
+
+.market{
+    position: absolute;
+    left: 45.56%;
+    right: 45.9%;
+    top: 60.54%;
+    bottom: 14.29%;
+    background: #33BB5A;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+.market-icon{
+    position: absolute;
+    left: 16px;
+    top:6px;
+}
+
+.games{
+    position: absolute;
+    left: 54.79%;
+    right: 37.43%;
+    top: 60.54%;
+    bottom: 14.29%;
+
+    background: #BD5FE9;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+.games-icon{
+    position: absolute;
+    left:17px;
+    top:8.08px;
+
+}
+
+.news{
+    position: absolute;
+    left: 63.26%;
+    right: 27.01%;
+    top: 60.54%;
+    bottom: 14.29%;
+    background: #EE4700;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+.news-icon{
+    position: absolute;
+    left:17px;
+    top:6px;
+}
+
+.payment{
+    position: absolute;
+    left: 78.06%;
+    right: 18.75%;
+    top: 57.14%;
+    bottom: 11.56%;
+    border-radius: 50%;
+    background: linear-gradient(140.48deg, #FFD951 12.51%, #F2992F 87.69%);
+    cursor: pointer;
+}
+
+.payment-icon{
+    position: absolute;
+    left:10.33px;
+    top: 9.39px;
+    cursor: pointer;
+}
+
+.heart{
+    position: absolute;
+    left: 82.43%;
+    right: 15.42%;
+    top: 63.95%;
+    bottom: 18.37%;
+    cursor: pointer;
+}
+
+.messages{
+    position: absolute;
+    left: 85.76%;
+    right: 12.27%;
+    top: 63.47%;
+    bottom: 17.21%;
+    cursor: pointer;
+}
+
+.shopping-cart{
+    position: absolute;
+    left: 88.88%;
+    right: 9.24%;
+    top: 63.27%;
+    bottom: 17.01%;
+    cursor: pointer;
+}
+

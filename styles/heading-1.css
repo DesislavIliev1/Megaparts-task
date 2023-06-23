@@ -1,0 +1,76 @@
+.heading-1{
+    position: absolute;
+    width: 611px;
+    height: 42px;
+    left: 130px;
+    top: 174px;
+
+    font-family: 'Exo 2';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    color: #231F20;
+
+}
+
+.heading-2{
+    position: absolute;
+    width: 360px;
+    height: 18px;
+    left: 130px;
+    top: 232px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 18px;
+    
+    
+    
+}
+
+.number{
+    color: #33BB5A;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 18px;
+    background-color: #ffffff;
+}
+
+.send-message{
+    position: absolute;
+    width: 271px;
+    height: 45px;
+    left: 1039px;
+    top: 195px;
+    background: #33BB5A;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+.send-message-text{
+    position: absolute;
+    width: 148px;
+    height: 16.25px;
+    left: 77.53px;
+    top:15.35px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 18px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.send-message-icon{
+    position: absolute;
+    left: 45px;
+    top: 10px;
+
+
+}
