@@ -1,0 +1,677 @@
+.orders-container{
+    position: absolute;
+    width: 237px;
+    height: 45px;
+    top: 499px;
+    left: 130px;
+    border-radius:50px;
+    background-color: #008AEE;
+    cursor: pointer;
+
+}
+
+.orders-text{
+    position: absolute;
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 18px;
+    letter-spacing: 0em;
+    left: 80px;
+    text-align: center;
+    color: #FFFFFF;
+
+}
+
+.ask-container{
+    position: absolute;
+    width: 237px;
+    height: 45px;
+    top: 554px;
+    left: 130px;
+    border-radius: 50px;
+    background-color: #008AEE;
+    cursor: pointer;
+
+}
+
+.ask-text{
+    position: absolute;
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 18px;
+    letter-spacing: 0em;
+    left: 50px;
+    text-align: center;
+    color: #FFFFFF;
+
+}
+
+.refresh-options-container{
+    width: 887px;
+height: 45px;
+top: 499px;
+left: 401px;
+
+}
+
+.newest{
+    position: absolute;
+    width: 186px;
+    height: 45px;
+    top: 499px;
+    left: 401px;
+    border-radius: 30px;
+    border-width: 1px, 1px, 1px, 1px;
+    border:1px solid  #777777;
+    cursor: pointer;
+}
+
+.newest-text{
+position: absolute;
+font-family: 'Roboto';
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0em;
+left: 20px;
+bottom: -7px;
+color: #777777;
+
+}
+
+.newest-arrow{
+    position: absolute;
+    top:19px;
+    left:150px;
+}
+
+.arrows-rotate{
+    position: absolute;
+    left:607px;
+    top: 510px;
+}
+
+.refresh-text{
+    position: absolute;
+    color: #008AEE;
+    font-size: 16px;
+    font-family: 'Roboto';
+    font-weight: 500;
+    line-height: 24px;
+    left: 637px;
+    top: 495px;
+    text-decoration-line: underline;
+    cursor: pointer;
+}
+
+.gas{
+    position: absolute;
+    left: 1034px;
+    top: 510px;
+}
+
+.gas-text{
+position: absolute;
+color: #008AEE;
+font-size: 26px;
+font-family: 'Exo 2';
+font-weight: 700;
+display: flex;
+left: 1065px;
+top: 480px;
+width: 44px;
+height: 32px;
+cursor: default;
+
+}
+
+.battery{
+    position: absolute;
+    left: 1129px;
+    top: 510px;
+}
+
+.battery-text{
+position: absolute;
+color: #008AEE;
+font-size: 26px;
+font-family: 'Exo 2';
+font-weight: 700;
+display: flex;
+left: 1165.29px;
+top: 480px;
+width: 44px;
+height: 32px;
+cursor: default;
+
+}
+
+.logo-123{
+    position: absolute;
+    left: 1212px;
+    top: 507px;
+}
+
+.logo-text{
+    position: absolute;
+    color: #008AEE;
+    font-size: 26px;
+    font-family: 'Exo 2';
+    font-weight: 700;
+    display: flex;
+    left: 1246px;
+    top: 480px;
+    width: 44px;
+    height: 32px;
+    cursor: default;
+}
+
+.account-options{
+    position: absolute;
+    width: 238px;
+    height: 210px;
+    top: 623px;
+    left: 130px;
+    border: 1px;
+
+}
+
+.acc-news{
+    position: absolute;
+    left: 40px;
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 15px;
+    letter-spacing: 0em;
+    color:  #008AEE;
+    top:-20px;
+    cursor: pointer;
+
+}
+
+.news-icon{
+    top:-10px;
+    left: 1px;
+}
+
+.opt{
+    padding-top:10px;
+    margin-left:40px;
+    color: #000;
+    font-size: 16px;
+    font-family: 'Roboto';
+    font-weight: 500;
+    line-height: 15px;
+    cursor: pointer;
+}
+
+.offers-icon{
+    position: absolute;
+    margin-top:20px;
+}
+.notes-icon{
+    position: absolute;
+    margin-top: 5px;
+
+}
+.qa-icon{
+    position: absolute;
+    margin-top:5px;
+}
+
+
+.viewed-icon{
+    position: absolute;
+    margin-top:5px;
+}
+
+.ad{
+    position: absolute;
+    width: 195px;
+    height: 758px;
+    top: 885px;
+    left: 146px;
+    border-radius: 10px;
+    background-color: #F3F3F3;
+    cursor: pointer;
+    
+}
+
+.ad-text{
+    position: absolute;
+    width: 20px;
+    height: 18px;
+    left: 18px;
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 18px;
+    letter-spacing: 0em;
+    color: #959595;
+
+}
+
+.ad-1{
+    position: absolute;
+    top: 50px;
+    left: 17px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+
+}
+
+.ad-container-1{
+    position: absolute;
+    top: 313px;
+    left: 17px;
+    width: 160px;
+    height: 127px;
+    background-color: #C60B0F;
+}
+
+.ad-container-1-text{
+    position: absolute;
+    top:24px;
+    color: #FFF;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Exo 2';
+    font-weight: 700;
+    line-height: 26px;
+    text-transform: uppercase;
+}
+
+.ad-2{
+    position: absolute;
+    top: 435px;
+    left: 17px;
+}
+
+.ad-container-2{
+    position: absolute;
+    top: 605px;
+    left: 17px;
+    width: 160px;
+    height: 127px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius:10px;
+    background-color: #C60B0F;
+}
+
+.ad-inner-container-2{
+    position: absolute;
+    top: 26px;
+    left: 22px;
+    width: 114.667px;
+    height: 75px;
+    border-radius: 10px;
+    background: #EBEBEB;
+}
+
+.ad-container-2-text{
+    position: absolute;
+    top:14px;
+    color: #1A1B16;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Roboto';
+    font-weight: 900;
+    line-height: 24px;
+    text-transform: uppercase;
+}
+
+.publications-section{
+
+    position: absolute;
+    top: 582px;
+    left: 401px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap:37px;
+    row-gap:62px;
+   
+
+}
+
+.publication{
+width: 436px;
+height: 609px;
+flex-shrink: 0;
+
+
+}
+
+.part-pic{
+position:absolute;
+width: 325px;
+height: 229px;
+flex-shrink: 0;
+border-radius: 20px;
+margin-left: 0px;
+cursor: pointer;
+}
+
+.part-pic-small{
+    position: absolute;
+    margin-top: 0px;
+    margin-left:330px;
+    border-radius: 10px;
+    cursor: pointer;
+
+}
+
+.part-pic-small-2{
+    position: absolute;
+    margin-top: 81px;
+    margin-left:330px;
+    cursor: pointer;
+
+}
+
+.like-icon{
+    position: absolute;
+    margin-left: 289px;
+    margin-top: 197px;
+    
+}
+
+.seller-profile{
+    position:absolute;
+    width: 26px;
+    height: 26px;
+    margin-top: 240px;
+    border-radius: 26px;
+    background-color: #d9d9d9;}
+
+.seller-profile-text{
+    margin-left: 7px;
+    margin-top: 7px;
+    width: 12px;
+    height: 16px;
+    color: #434343;
+    font-size: 14px;
+    font-family: 'Roboto';
+    font-weight: 700;
+    line-height: 14px;
+    text-transform: uppercase;
+}
+
+.seller-name{
+
+    margin-left: 33px;
+    margin-top:243px; 
+    font-family: 'Roboto';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+
+}
+
+.seller{
+    font-family: 'Roboto';
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    background-color: #FFFFFF;
+
+}
+
+.expired{
+    position: absolute;
+    margin-top: -35px;
+    margin-left: 280px;
+    color: #231F20;
+    text-align: right;
+    font-size: 14px;
+    font-family: 'Roboto';
+    line-height: 18px;
+}
+
+.expired-date{
+    color:#008AEE ;
+    background-color: #FFFFFF;
+
+}
+
+.vector{
+    position: absolute;
+    
+}
+
+.buy-container{
+    position: absolute;
+    margin-top: 11px;
+    width: 74px;
+    height: 21px;
+    flex-shrink: 0;
+    border-radius: 50px;
+    background: #33BB5A;
+    cursor: pointer;
+}
+
+.buy-text{
+    position: absolute;
+    margin-left: 8px;
+    margin-top:5px;
+    color: #FFF;
+    font-size: 12px;
+    font-family: 'Roboto';
+    font-weight: 700;
+    line-height: 14px;
+    text-transform: uppercase;
+}
+
+.pub-text{
+    margin-top: 48px;
+    color: #000;
+    font-size: 16px;
+    font-family: 'Exo 2';
+    font-weight: 700;
+    line-height: 22px;
+}
+
+.offers{
+    color: #008AEE;
+    font-size: 12px;
+    font-family: 'Roboto';
+    font-weight: 600;
+    line-height: 16px;
+    margin-bottom: -10px;
+}
+
+.num{
+    font-weight: 400;
+    color:#231F20 ;
+    background-color:white;
+}
+
+.vector-2{
+    margin-top: 20px;
+}
+
+.car-info{
+    color: #000;
+    font-size: 12px;
+    font-family: 'Roboto';
+    line-height: 16px;
+
+
+}
+
+.car-info-2{
+    margin-top: -30px;
+    margin-left:250px;
+    color: #000;
+    font-size: 12px;
+    font-family: 'Roboto';
+    line-height: 16px;
+}
+
+.offer-container{
+    width: 433px;
+    height: 45px;
+    border-radius: 50px;
+    background-color:  #008AEE;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.offer-text{
+    position: absolute;
+    margin-left: 150px;
+    margin-top: 13px;
+    width: 122px;
+    height: 16.2px;
+    color: #FFF;
+    font-size: 16px;
+    font-family: 'Roboto';
+    font-weight: 500;
+    line-height: 18px;
+}
+
+.right-arrow{
+    position: absolute;
+    margin-left: 280px;
+    margin-top: 17px;
+}
+
+.note-container{
+    margin-top: 10px;
+    width: 214.17px;
+    height: 45px;
+    top: 561px;
+    border-radius: 50px;
+    border: 1px solid rgba(51, 187, 90, 1);
+    background-color: rgba(41, 188, 85, 0.1);
+    cursor: pointer;
+
+}
+
+.note-icon{
+    position: absolute;
+    margin-left: 46px;
+    margin-top:14px;
+}
+
+.note-text{
+    margin-left: 20px;
+    color:  #33BB5A;
+    text-align: center;
+    font-size: 16px;
+    font-family: 'Roboto';
+    font-weight: 500;
+    line-height: 18px;
+}
+
+.viewed-container{
+    margin-top: -45px;
+    margin-left: 221px;
+    width: 211.626px;
+    height: 45px;
+    border-radius: 50px;
+    border: 1px solid  #FD3541;
+    background: var(--red-opacity, rgba(253, 53, 65, 0.10));
+    cursor: pointer;
+
+}
+
+.red-eye{
+    margin-left: 51px;
+    margin-top:14px;
+}
+
+.viewed-text{
+    margin-left: 20px;
+    margin-top: -21px;
+    color: var(--red, #FD3541);
+    text-align: center;
+    font-size: 16px;
+    font-family: 'Roboto';
+    font-weight: 500;
+    line-height: 18px;
+}
+
+.page-div-1{
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    top: 2622px;
+    left: 684px;
+    border-radius: 45px;
+    border: 1px solid rgba(0, 138, 238, 1);
+    background-color: rgba(23, 141, 235, 0.15);
+    cursor: pointer;
+
+}
+
+.left-arrow{
+    position: absolute;
+    top:14px;
+    left: 17px;
+}
+
+.page-text{
+    position: absolute;
+    color: #000;
+    font-size: 16px;
+    font-family: 'Roboto';
+    font-weight: 500;
+    line-height: 18px;
+    left: 757px;
+    top:2622px;
+}
+
+.num-page-div{
+    position: absolute;
+    top: 2622px;
+    left:800px;
+    width: 105px;
+    height: 45px;
+    border-radius: 50px;
+    border: 1px solid  #008AEE;
+}
+
+.down-arrow{
+    position: absolute;
+    left: 70px;
+    top:19px;
+}
+
+.p-num{
+    position: absolute;
+    left: 19px;
+}
+
+.p-count{
+    top: 2622px;
+    left: 918px;
+    position: absolute;
+    color: #000;
+    font-size: 16px;
+    font-family: 'Roboto';
+    font-weight: 500;
+    line-height: 18px;
+
+}
+
+.page-div-2{
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    top: 2622px;
+    left: 976px;
+    border-radius: 45px;
+    border: 1px solid rgba(0, 138, 238, 1);
+    background-color: rgba(23, 141, 235, 0.15);
+    cursor: pointer;
+
+
+}

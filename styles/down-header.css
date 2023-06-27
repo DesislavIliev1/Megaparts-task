@@ -126,9 +126,9 @@ cursor: pointer;
 }
 
 .news-icon{
-    position: absolute;
+    position:absolute;
     left:17px;
-    top:6px;
+    top:8px;
 }
 
 .payment{
